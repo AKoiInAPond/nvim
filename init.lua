@@ -1,0 +1,2 @@
+require("koi")
+print("hello")
